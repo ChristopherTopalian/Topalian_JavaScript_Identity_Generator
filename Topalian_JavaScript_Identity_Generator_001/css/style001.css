@@ -1,0 +1,93 @@
+/* Dedicated to God the Father */
+
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024 */
+
+/* https://github.com/ChristopherTopalian */
+
+/* https://github.com/ChristopherAndrewTopalian */
+
+/* style001.css */
+
+body
+{
+    background-color: rgb(30, 30, 30);
+}
+
+a
+{
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.input
+{
+    padding: 10px;
+}
+
+#mainDiv
+{
+    text-align: center;
+}
+
+.buttonStyle001
+{
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgb(0, 77, 129);
+    opacity: 1.0;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.buttonStyle001:hover
+{
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 32, 53);
+    cursor: pointer;
+}
+
+.buttonStyle001:active
+{
+    color: rgb(255, 0, 255);
+}
+
+.output
+{
+    height: 46vh;
+    width: 700px;
+    padding: 20px;
+    border: solid 1px rgb(200, 200, 200);
+    border-radius: 8px;
+    background-color: rgb(40, 40, 40);
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    font-family: arial;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#titleOfApp
+{
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(100, 100, 100);
+}
+
